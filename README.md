@@ -1,6 +1,5 @@
-# Create File Sharing Web App with ReactJs, Nodejs,Mongob from Scratch.
+File Sharing Web App with ReactJs, Nodejs,Mongob
 
-## Videos tutorial: https://www.youtube.com/playlist?list=PLFaW_8zE4amOp3pOVCrGO-Ox--q4WShsQ
 ### Installation
 
 ```
